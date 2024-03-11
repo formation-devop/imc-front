@@ -22,11 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-*.yml
-Dockerfile
-notes.md
-.dockerignore
-.github
-Jenkinsfile
-web-imc.conf
